@@ -12,7 +12,6 @@
 
 
 
-
 <h2>HR Analytics Dashboard</h2>
 
 ![HR Dashboard](https://user-images.githubusercontent.com/127477877/228421938-e1410b35-512e-4f70-9e52-33b91d0b31eb.png)
